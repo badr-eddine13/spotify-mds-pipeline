@@ -7,3 +7,4 @@ Nous simulons des données musicales en streaming — incluant les écoutes de c
 
 Une fois le pipeline lancé, chaque composant fonctionne automatiquement :
 simulation des données → streaming via Kafka → stockage dans Snowflake → transformation avec DBT → visualisation dans Power BI
+🏗️ Architecture![Uploading WhatsApp Image 2025-12-23 at 21.01.44.jpeg…]()
