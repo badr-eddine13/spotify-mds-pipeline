@@ -63,3 +63,6 @@ Tableaux de bord Power BI présentant les écoutes par région, les tendances de
 Déploiement conteneurisé pour garantir la reproductibilité
 
 Pipeline CI/CD avec automatisation des tests DBT
+
+
+# ⚙️ Implémentation étape par étape
