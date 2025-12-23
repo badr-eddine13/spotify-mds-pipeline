@@ -9,6 +9,6 @@ Une fois le pipeline lancé, chaque composant fonctionne automatiquement :
 simulation des données → streaming via Kafka → stockage dans Snowflake → transformation avec DBT → visualisation dans Power BI
 
 🏗️ Architecture
-<!-- Uploading "Architecture.jpeg"... -->
+<!-- Uploading "[RDF] Exo 2 (2).jpg"... -->
 
 
